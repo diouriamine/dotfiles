@@ -49,3 +49,5 @@
 
 [pull]
   rebase = false
+[user]
+	email = diouriamine@hotmail.Com
